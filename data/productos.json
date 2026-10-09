@@ -1,0 +1,65 @@
+[
+  {
+    "id": "prensa-hamburguesas-01",
+    "affiliate_url": "",
+    "i18n": {
+      "es": {
+        "nombre": "Prensa para hamburguesas de acero",
+        "descripcion": "Molde ajustable para porciones parejas, ideal para carnicerías y uso doméstico intensivo.",
+        "cta": "Ver producto"
+      },
+      "en": {
+        "nombre": "Steel burger press",
+        "descripcion": "Adjustable mold for even portions, ideal for butcher shops and heavy home use.",
+        "cta": "View product"
+      },
+      "zh": {
+        "nombre": "不锈钢汉堡肉饼压模",
+        "descripcion": "可调节模具，分量均匀，适合肉店及家庭高频使用。",
+        "cta": "查看产品"
+      }
+    }
+  },
+  {
+    "id": "ablandador-carne-01",
+    "affiliate_url": "",
+    "i18n": {
+      "es": {
+        "nombre": "Ablandador de carne manual",
+        "descripcion": "Cuchillas de acero inoxidable, reduce tiempo de marinado hasta 40%.",
+        "cta": "Ver producto"
+      },
+      "en": {
+        "nombre": "Manual meat tenderizer",
+        "descripcion": "Stainless steel blades, cuts marinating time by up to 40%.",
+        "cta": "View product"
+      },
+      "zh": {
+        "nombre": "手动松肉器",
+        "descripcion": "不锈钢刀片，可将腌制时间缩短达40%。",
+        "cta": "查看产品"
+      }
+    }
+  },
+  {
+    "id": "termometro-carne-01",
+    "affiliate_url": "",
+    "i18n": {
+      "es": {
+        "nombre": "Termómetro digital para carnes",
+        "descripcion": "Lectura en 3 segundos, sonda resistente a altas temperaturas.",
+        "cta": "Ver producto"
+      },
+      "en": {
+        "nombre": "Digital meat thermometer",
+        "descripcion": "3-second readout, probe rated for high temperatures.",
+        "cta": "View product"
+      },
+      "zh": {
+        "nombre": "数字肉类温度计",
+        "descripcion": "3秒读数，探针耐高温。",
+        "cta": "查看产品"
+      }
+    }
+  }
+]
